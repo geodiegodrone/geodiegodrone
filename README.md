@@ -2,37 +2,33 @@
 
 ### Data Scientist | Machine Learning | Mining & Industrial Analytics
 
-I build data products that turn operational, geospatial, and business data into clear, actionable insights. My background combines data science with hands-on experience in mining and industrial operations.
+I build practical machine-learning and analytics workflows for operational, geospatial, and business problems. My experience combines data science with mining and industrial operations, including PostgreSQL database connectivity across AWS and Azure environments at **Colombian Mint**.
 
-At **Colombian Mint**, I work with PostgreSQL databases hosted on AWS and Azure, connecting cloud data platforms to analytical workflows. My interests include reliable machine-learning systems, reproducible experimentation, and practical analytics for complex operational environments.
+## Core Skills
 
-## Focus Areas
+- **Machine learning:** Python, scikit-learn, feature engineering, model evaluation, MLflow
+- **Data engineering and analytics:** SQL, PostgreSQL, data preparation, database connectivity
+- **Cloud:** AWS, Azure
+- **Applied domains:** mining, mineral prospectivity, geospatial analysis, industrial operations
 
-- **Machine learning:** Python, scikit-learn, model evaluation, feature engineering, MLflow
-- **Data and cloud:** SQL, PostgreSQL, AWS, Azure, data preparation and integration
-- **Applied domains:** mining analytics, mineral prospectivity, geospatial data, industrial operations
+## Selected Data Science Projects
 
-## Featured Data Science Projects
+Five independent, reproducible repositories. Each includes its own implementation, pinned dependencies, MLflow tracking, README, model card, and code license.
 
-- [Wholesale Customer Segmentation](https://github.com/geodiegodrone/machine_learning/tree/master/projects/wholesale-customer-segmentation)  
-  Unsupervised customer profiling with transformed spend data, K-Means model selection, and MLflow experiment tracking.
-- [Bike Sharing Demand Forecasting](https://github.com/geodiegodrone/machine_learning/tree/master/projects/bike-demand-forecasting)  
-  Hourly demand regression with chronological evaluation, a seasonal baseline, and explicit prevention of target leakage.
-- [Bank Marketing Response](https://github.com/geodiegodrone/machine_learning/tree/master/projects/bank-marketing-response)  
-  Imbalanced classification with leakage-aware features and a decision threshold selected on validation data.
-- [Home Energy Forecasting](https://github.com/geodiegodrone/machine_learning/tree/master/projects/home-energy-forecasting)  
-  Time-aware energy regression compared against a transparent baseline and tracked with MLflow.
-- [SMS Spam Classification](https://github.com/geodiegodrone/machine_learning/tree/master/projects/sms-spam-classifier)  
-  Reproducible NLP pipeline using TF-IDF and balanced logistic regression.
+| Project | Focus |
+| --- | --- |
+| [Wholesale Customer Segmentation](https://github.com/geodiegodrone/wholesale-customer-segmentation) | K-Means, segment profiling, silhouette-based model selection |
+| [Bike Demand Forecasting](https://github.com/geodiegodrone/bike-demand-forecasting) | Time-aware demand prediction and leakage-aware features |
+| [Bank Marketing Response](https://github.com/geodiegodrone/bank-marketing-response) | Imbalanced classification and validation-based threshold selection |
+| [Home Energy Forecasting](https://github.com/geodiegodrone/home-energy-forecasting) | Chronological energy forecasting and baseline comparison |
+| [SMS Spam Classifier](https://github.com/geodiegodrone/sms-spam-classifier) | TF-IDF text classification and MLflow |
 
-## Mining & Geospatial ML
+## Mining & Geospatial Work
 
-- [Mineral Prospectivity Analysis](https://github.com/geodiegodrone/TFM_VIU)  
-  Machine-learning workflow for mineral prospectivity and baseline evaluation.
-- [Geochemical Machine Learning](https://github.com/geodiegodrone/aureo-ml)  
-  Applied workflows for mineral exploration data, including supervised learning and anomaly analysis.
+- [Mineral Prospectivity Analysis](https://github.com/geodiegodrone/TFM_VIU): geospatial machine learning for mineral prospectivity.
+- [Geochemical Machine Learning](https://github.com/geodiegodrone/aureo-ml): applied modelling and anomaly analysis for exploration data.
 
-## Connect
+## Contact
 
 - [LinkedIn](https://www.linkedin.com/in/diego-f-pulido-sastoque-91081b14a/)
 - [GitHub repositories](https://github.com/geodiegodrone?tab=repositories)
