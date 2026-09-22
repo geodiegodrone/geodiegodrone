@@ -12,14 +12,25 @@ At **Colombian Mint**, I work with PostgreSQL databases hosted on AWS and Azure,
 - **Data and cloud:** SQL, PostgreSQL, AWS, Azure, data preparation and integration
 - **Applied domains:** mining analytics, mineral prospectivity, geospatial data, industrial operations
 
-## Selected Work
+## Featured Data Science Projects
+
+- [Wholesale Customer Segmentation](https://github.com/geodiegodrone/machine_learning/tree/master/projects/wholesale-customer-segmentation)  
+  Unsupervised customer profiling with transformed spend data, K-Means model selection, and MLflow experiment tracking.
+- [Bike Sharing Demand Forecasting](https://github.com/geodiegodrone/machine_learning/tree/master/projects/bike-demand-forecasting)  
+  Hourly demand regression with chronological evaluation, a seasonal baseline, and explicit prevention of target leakage.
+- [Bank Marketing Response](https://github.com/geodiegodrone/machine_learning/tree/master/projects/bank-marketing-response)  
+  Imbalanced classification with leakage-aware features and a decision threshold selected on validation data.
+- [Home Energy Forecasting](https://github.com/geodiegodrone/machine_learning/tree/master/projects/home-energy-forecasting)  
+  Time-aware energy regression compared against a transparent baseline and tracked with MLflow.
+- [SMS Spam Classification](https://github.com/geodiegodrone/machine_learning/tree/master/projects/sms-spam-classifier)  
+  Reproducible NLP pipeline using TF-IDF and balanced logistic regression.
+
+## Mining & Geospatial ML
 
 - [Mineral Prospectivity Analysis](https://github.com/geodiegodrone/TFM_VIU)  
-  Machine-learning workflow for mineral prospectivity, baseline evaluation, and reproducible experiments.
+  Machine-learning workflow for mineral prospectivity and baseline evaluation.
 - [Geochemical Machine Learning](https://github.com/geodiegodrone/aureo-ml)  
-  Applied ML workflows for mineral exploration data, including supervised learning and anomaly analysis.
-- [Data Science Project Portfolio](https://github.com/geodiegodrone/machine_learning)  
-  A curated collection of machine-learning work and end-to-end case studies.
+  Applied workflows for mineral exploration data, including supervised learning and anomaly analysis.
 
 ## Connect
 
